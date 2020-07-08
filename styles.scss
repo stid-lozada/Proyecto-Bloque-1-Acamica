@@ -22,7 +22,6 @@
       margin-left: 81px;
       z-index: 2;
       opacity: 0;
-      padding: -12px;
     }
 
     .menu-bar {
@@ -185,6 +184,9 @@
     width: 298px;
     height: 232px;
     margin: 0;
+    background: transparent;
+    border: 0;
+    overflow: hidden;
   }
 
   .azul {
